@@ -25,5 +25,9 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+<<<<<<< HEAD
 HandleInheritability Van
 
+=======
+HandleInheritability hi
+>>>>>>> Thanh
