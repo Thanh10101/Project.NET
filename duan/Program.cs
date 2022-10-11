@@ -33,3 +33,4 @@ HandleInheritability hi
 >>>>>>> Thanh
 
     Bao
+    Thanh
