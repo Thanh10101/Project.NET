@@ -34,3 +34,4 @@ HandleInheritability hi
 
     Bao
     Thanh
+    Thanh
