@@ -31,3 +31,5 @@ HandleInheritability Van
 =======
 HandleInheritability hi
 >>>>>>> Thanh
+
+    Bao
